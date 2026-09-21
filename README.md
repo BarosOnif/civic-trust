@@ -240,7 +240,6 @@ civictrust/
 │   ├── design-principles.md
 │   ├── ai-and-trust-principles.md
 │   ├── future-development.md
-│   └── submission-assets.md
 │
 ├── architecture/
 │   ├── system-architecture.md
@@ -255,7 +254,6 @@ civictrust/
 │
 ├── demo/
 │   ├── demo-script.md
-│   ├── demo-scenarios.md
 │   └── demo-video-link.md
 │
 └── prompts/
