@@ -1,10 +1,22 @@
 # CivicTrust — Evidence Before Confidence
 
-**CivicTrust** is an AI-assisted civic information and action platform that helps people:
+**CivicTrust** is an AI-assisted civic information and action platform that helps people **find, understand, verify and act on information that affects their civic lives**.
+
+It enables citizens to:
+
+* find and understand reliable civic information, policies and public documents;
+* verify civic claims against available evidence;
+* identify the right institution, service or next step;
+* report civic and public-service issues;
+* access information and reporting pathways for safety concerns;
+* navigate community concerns and social-cohesion issues.
+
+The platform brings these experiences together around one core journey:
 
 **FIND → UNDERSTAND → VERIFY → ACT**
 
-It is designed to help citizens find reliable civic information, understand policies and public documents, verify civic claims against available evidence, and identify appropriate next steps.
+> **“We don't ask you to trust the AI. We show you the evidence.”**
+
 
 ## Live Proof of Concept
 
