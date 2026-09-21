@@ -93,10 +93,6 @@ The platform helps users navigate community concerns, civic information and appr
 
 Where sufficient information is available, CivicTrust helps users identify an appropriate institution, reporting channel or next step.
 
-### Admin Dashboard
-
-The proof of concept includes administrative functionality for reviewing reports, managing sources/content and monitoring feedback.
-
 ---
 
 ## Intended Users
