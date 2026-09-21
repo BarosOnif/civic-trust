@@ -219,7 +219,7 @@ As a result, there is currently no local `npm install`, build or deployment comm
 
 The application is hosted through Base44 and is accessed through the live URL above.
 
-If the underlying application source code becomes available in future, local installation and development instructions can be added to this README.
+The underlying application source code can be provided upon request. Local installation and development instructions can be added to this README.
 
 ---
 
