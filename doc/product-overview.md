@@ -103,9 +103,6 @@ Where evidence is available, CivicTrust helps users understand who may be respon
 
 Users can explore information about civic/public institutions and other source organisations.
 
-### Admin Dashboard
-
-Administrators can review reports, manage sources and civic content, monitor feedback and maintain an audit trail.
 
 ## Intended User Experience
 
