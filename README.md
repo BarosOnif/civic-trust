@@ -266,20 +266,18 @@ civictrust/
 
 ## How AI Was Used
 
-CivicTrust was developed with AI-assisted tools.
+## AI-Assisted Development
 
-**Base44** was used to build and deploy the working proof of concept.
+CivicTrust was developed as an AI-assisted proof of concept.
 
-**ChatGPT** was used to support product development, including:
+The **core product idea, problem definition, target users, solution direction and product concept were human-led**. AI tools were used to accelerate the prototyping and development process, including application implementation, requirements refinement, documentation and supporting development artefacts.
 
-* product and user-flow definition;
-* application-building prompts;
-* AI behaviour and trust guardrails;
-* architecture and data-model planning;
-* documentation;
-* demonstration and submission materials.
+**Base44** was used as the primary AI-assisted application development platform for building and deploying the working proof of concept.
 
-AI was used as a development and productivity tool. It was not treated as the authority for civic information.
+Other generative AI tools were used selectively to support development and documentation.
+
+The use of AI was intended to accelerate execution and experimentation while keeping the product concept, objectives and final product direction under human ownership.
+
 
 ---
 
@@ -287,15 +285,16 @@ AI was used as a development and productivity tool. It was not treated as the au
 
 CivicTrust was developed as a working proof of concept using **Base44, an AI-assisted application development platform**.
 
-The underlying Base44-generated application source code is not included in this repository.
+The underlying application source code is not included in this public repository. The repository instead contains the project's product documentation, architecture, data model, design references, AI-development prompts, trust principles and demonstration materials.
 
-This repository therefore serves as the project's **public documentation and project record**, containing the product concept, problem statement, intended users, challenge-track alignment, architecture, data model, design references, AI-development prompts, trust principles and demonstration materials.
-
-The live application is available at:
+The live proof of concept is available at:
 
 **https://civic-trust.base44.app/**
 
+**Source code is available upon request.**
+
 This repository does not claim to contain the underlying Base44-generated application source code.
+
 
 ---
 
@@ -313,16 +312,6 @@ This repository does not claim to contain the underlying Base44-generated applic
 **Initial Geography:** Nigeria
 
 **Core Principle:** Evidence Before Confidence
-
----
-
-## Submission Materials
-
-* **Working POC:** https://civic-trust.base44.app/
-* **GitHub Repository:** This repository
-* **Demo Video:** [Insert final demo link]
-* **Pitch Deck:** [Insert final PDF/link]
-* **Written Summary:** [Insert final PDF/link]
 
 ---
 
